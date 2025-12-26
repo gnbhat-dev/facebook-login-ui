@@ -4,6 +4,6 @@ This project recreates the Facebook login page layout for educational purposes.
 
 ## Tech Used
 - HTML
-- CSS(Flexbox)
+- CSS
 ## Status
 Completed basic UI
